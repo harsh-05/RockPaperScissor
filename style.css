@@ -97,3 +97,6 @@ header > h1 {
     font-size: 20px;
     margin-top: 20px;
 }
+#r img, #s img {
+    mix-blend-mode: multiply;
+}
